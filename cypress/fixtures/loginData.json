@@ -1,0 +1,18 @@
+[
+    {
+        "tipo": "bloqueado",
+        "username": "locked_out_user",
+        "password": "secret_sauce"
+        
+    },
+    {
+        "tipo": "invalido",
+        "username": "invalido",
+        "password": "secret_sauce"
+    },
+    {
+        "tipo": "valido",
+        "username": "standard_user",
+        "password": "secret_sauce"
+    }
+] 
